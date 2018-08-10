@@ -13,7 +13,7 @@ In this project, we train a **Neural Network** using **TensorFlow**.
 
 Follow the instructions to install the required environment and check them both:
 
-	(pmaienv)$ jupyter notebook intro_to_tensorflow.ipynb
+	(dlnd-tf-lab)$ jupyter notebook intro_to_tensorflow.ipynb
 	
 --------------------------------------------------------------------------------------------------------
 
